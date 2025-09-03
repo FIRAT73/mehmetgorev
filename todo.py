@@ -21,5 +21,8 @@ while True:
     elif choice == "3":
         print("👋 Çıkılıyor...")
         break
+    elif choice == "4":
+        print("👋 çıkış...")
+        break
     else:
         print("❌ Geçersiz seçim!")
